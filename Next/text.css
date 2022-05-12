@@ -1,0 +1,46 @@
+<style>
+.hc-title{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    width: 600px;
+    line-height: 30px;
+    margin-bottom: 0;
+}
+.hc-stats{
+    font-family: Arial;
+    font-size: 14px;
+    color: purple;
+    text-align: left;
+    margin-top: 0;
+    width: 600px;
+    line-height: 30px   
+}
+.about{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
+.aboutus{
+    font-family: Arial;
+    font-size: 14px;
+    font-style: Italic;
+    color: blue;
+}
+.see-more{
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px:   
+}
+.call:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: Underline;
+    margin-left: 12px;
+
+}
+</style>
